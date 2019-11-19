@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+	<salesperson ID="276" Projected="15200475.2313" SalesYTD="5200475.2313" SalesLastYear="1439156.0291" FullName="Shelley Dyck" Territory="Southwest" />
+	<salesperson ID="285" Projected="5015682.3752" SalesYTD="5015682.3752" SalesLastYear="1635823.3967" FullName="Gail Erickson" Territory="United Kingdom" />
+	<salesperson ID="275" Projected="4557045.0459" SalesYTD="4557045.0459" SalesLastYear="1750406.4785" FullName="Maciej Dusza" Territory="Northeast" />
+	<salesperson ID="277" Projected="7354163.6332" SalesYTD="3857163.6332" SalesLastYear="1997186.2037" FullName="Linda Ecoffey" Territory="Central" />
+	<salesperson ID="286" Projected="42421950.2380" SalesYTD="3827950.2380" SalesLastYear="2396539.7601" FullName="Mark Erickson" Territory="France" />
+	<salesperson ID="283" Projected="3217950.2380" SalesYTD="3587378.4257" SalesLastYear="1371635.3158" FullName="Terry Eminhizer" Territory="Northwest" />
+	<salesperson ID="282" Projected="3534950.2380" SalesYTD="3189356.2465" SalesLastYear="2038234.6549" FullName="Michael Emanuel" Territory="Canada" />
+	<salesperson ID="281" Projected="3857163.2380" SalesYTD="3018725.4858" SalesLastYear="2073505.9999" FullName="Jauna Elson" Territory="Southwest" />
+	<salesperson ID="279" Projected="2073505.2380" SalesYTD="2811012.7151" SalesLastYear="1849640.9418" FullName="Carol Elliott" Territory="Southeast" />
+	<salesperson ID="289" Projected="4127950.2380" SalesYTD="2241204.0424" SalesLastYear="1307949.7917" FullName="Janeth Esteves" Territory="Germany" />
+	<salesperson ID="287" Projected="1427950.2380" SalesYTD="1931620.1835" SalesLastYear="0.0000" FullName="Martha Espinoza" Territory="Northwest" />
+	<salesperson ID="278" Projected="2223548.2380" SalesYTD="1764938.9859" SalesLastYear="1620276.8966" FullName="Carla Eldridge" Territory="Canada" />
+	<salesperson ID="290" Projected="323450.2380" SalesYTD="1758385.9260" SalesLastYear="2278548.9776" FullName="Twanna Evans" Territory="Australia" />
+	<salesperson ID="280" Projected="3845650.2380" SalesYTD="0.0000" SalesLastYear="1927059.1780" FullName="Shannon Elliott" Territory="Northwest" />
+	<salesperson ID="300" Projected="3232350.2380" SalesYTD="1230475.2313" SalesLastYear="1434567.0291" FullName="Shelley Terry" Territory="Southwest" />
+	<salesperson ID="301" Projected="4325432.2380" SalesYTD="5015432.3752" SalesLastYear="1663423.3967" FullName="Gail Shannon" Territory="United Kingdom" />
+	<salesperson ID="302" Projected="3827950.2380" SalesYTD="4557045.0459" SalesLastYear="1745606.4785" FullName="Elson Carol" Territory="Northeast" />
+	<salesperson ID="303" Projected="1234430.2380" SalesYTD="3345163.6332" SalesLastYear="1456186.2037" FullName="Linda Twanna" Territory="Central" />
+	<salesperson ID="304" Projected="3827950.2380" SalesYTD="3827640.2380" SalesLastYear="2456539.7601" FullName="Gail Erickson" Territory="France" />
+	<salesperson ID="305" Projected="3212950.2380" SalesYTD="3556778.4257" SalesLastYear="1654635.3158" FullName="Eldridge Shelley" Territory="Northwest" />
+	<salesperson ID="306" Projected="3827950.2380" SalesYTD="3189356.2465" SalesLastYear="2456234.6549" FullName="Michael Emanuel" Territory="Canada" />
+	<salesperson ID="307" Projected="2245604.2380" SalesYTD="3045625.4858" SalesLastYear="2654505.9999" FullName="Esteves Elson" Territory="Southwest" />
+	<salesperson ID="400" Projected="3890540.2380" SalesYTD="2814562.7151" SalesLastYear="1847654.9418" FullName="Carol Elliott" Territory="Southeast" />
+	<salesperson ID="401" Projected="2317950.2380" SalesYTD="2245604.0424" SalesLastYear="1234949.7917" FullName="Eldridge Esteves" Territory="Germany" />
+	<salesperson ID="402" Projected="3126750.2380" SalesYTD="1936540.1835" SalesLastYear="0.0000" FullName="Martha Espinoza" Territory="Northwest" />
+	<salesperson ID="405" Projected="3829850.2380" SalesYTD="1766548.9859" SalesLastYear="1432476.8966" FullName="Carol Eldridge" Territory="Canada" />
+	<salesperson ID="700" Projected="3645350.2380" SalesYTD="1456585.9260" SalesLastYear="2223448.9776" FullName="Twanna Evans" Territory="Australia" />
+	<salesperson ID="721" Projected="5015432.2380" SalesYTD="0.0000" SalesLastYear="1924321.1780" FullName="Shannon Elliott" Territory="Northwest" />	
+</items>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+	<salesterritory ID="1" Name="Northwest" SalesYTD="5767341.9752" SalesLastYear="3298694.4938" />
+	<salesterritory ID="2" Name="Northeast" SalesYTD="3857163.6331" SalesLastYear="3607148.9371" />
+	<salesterritory ID="3" Name="Central" SalesYTD="4677108.2690" SalesLastYear="3205014.0767" />
+	<salesterritory ID="4" Name="Southwest" SalesYTD="8351296.7411" SalesLastYear="5366575.7098" />
+	<salesterritory ID="5" Name="Southeast" SalesYTD="2851419.0435" SalesLastYear="3925071.4318" />
+	<salesterritory ID="6" Name="Canada" SalesYTD="6917270.8842" SalesLastYear="5693988.8600" />
+	<salesterritory ID="7" Name="France" SalesYTD="3899045.6940" SalesLastYear="2396539.7601" />
+	<salesterritory ID="8" Name="Germany" SalesYTD="2481039.1786" SalesLastYear="1307949.7917" />
+	<salesterritory ID="9" Name="Australia" SalesYTD="1977474.8096" SalesLastYear="2278548.9776" />
+	<salesterritory ID="10" Name="United Kingdom" SalesYTD="3514865.9051" SalesLastYear="1635823.3967" />
+</items>

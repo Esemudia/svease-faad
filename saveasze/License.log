@@ -1,0 +1,63 @@
+    ======  ======
+    Time:5/19/2019 8:47:07 AM
+    Title: Initiate log
+    Message: 
+    Time:5/19/2019 8:47:07 AM
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:5/19/2019 8:47:07 AM
+    Title: Requesting EVT
+    Message: EVTP
+    Time:5/19/2019 8:47:07 AM
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:5/19/2019 8:47:07 AM
+    Title: LICENSER
+    Message: TRL MODE
+    Time:5/19/2019 8:47:07 AM
+    Title: LICENSER
+    Message: DS LEFT-106
+    Time:5/19/2019 8:47:07 AM
+    Title: LICENSER
+    Message: DT MARK PASSED-106.00:00:00
+    Time:5/19/2019 8:47:07 AM
+    Title: ILMValidate action
+    Message: LIC
+    Time:5/19/2019 8:47:10 AM
+    Title: LICENSER - TGO
+    Message: Start
+    Entering constructor for: Telerik.Reporting.VsPackage.VsPackage
+    Entering Initialize() of: Telerik.Reporting.VsPackage.VsPackage
+    No Telerik Reporting products found in registry
+    Entering constructor for: Telerik.VSX.UserSettingsPackage.UserSettingsPackage
+    Entering Initialize() of: Telerik.VSX.UserSettingsPackage.UserSettingsPackage
+    Entering constructor for: Telerik.Web.UI.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.Web.UI.VSPackage.VSPackage
+    Entering constructor for: Telerik.KendoUI.Mvc.VSPackage.VsPackage
+    Entering constructor for: Telerik.KendoUI.Mvc.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.KendoUI.Mvc.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.KendoUI.Mvc.VSPackage.VsPackage
+    Entering constructor for: Telerik.Windows.WPF.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.Windows.WPF.VSPackage.VSPackage
+    Entering constructor for: Telerik.Windows.Silverlight.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.Windows.Silverlight.VSPackage.VsPackage
+    Entering constructor for: Telerik.WinControls.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.WinControls.VSPackage.VSPackage
+    Entering constructor for: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Entering Initialize() of: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Assembly resolution failed: Telerik.JustMock.AddIn.XmlSerializers, Version=2018.2.511.5, Culture=neutral, PublicKeyToken=602a9bfd8c8c4ad7
+    Assembly resolution failed: Telerik.VSX.2018.2.618.1.XmlSerializers, Version=2018.2.618.1, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Assembly resolution failed: Telerik.UserSettings.2016.2.712.0.XmlSerializers, Version=2016.2.712.0, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Assembly resolution failed: Telerik.UserSettings.2018.2.618.1.XmlSerializers, Version=2018.2.618.1, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Assembly resolution failed: Telerik.VSX.2016.2.712.0.XmlSerializers, Version=2016.2.712.0, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Assembly resolution failed: Telerik.VSX.Notifications.1.2.0.0.XmlSerializers, Version=1.2.0.0, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Assembly resolution failed: Telerik.VSX.Notifications.1.2.0.0.XmlSerializers, Version=1.2.0.0, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Assembly resolution failed: Telerik.VSX.2016.2.712.0.XmlSerializers, Version=2016.2.712.0, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Assembly resolution failed: Telerik.VSX.2016.2.712.0.XmlSerializers, Version=2016.2.712.0, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Assembly resolution failed: Telerik.VSX.2016.2.712.0.XmlSerializers, Version=2016.2.712.0, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Assembly resolution failed: Telerik.Windows.Themes.Modern.2012.2.0903.1135, Culture=neutral
+    Assembly resolution failed: Telerik.Windows.Controls.2012.2.0903.1135, Version=2012.2.903.35, Culture=neutral, PublicKeyToken=5803cfa389c90ce7
+    Assembly resolution failed: Telerik.Windows.Controls.Input.2012.2.0903.1135, Version=2012.2.903.35, Culture=neutral, PublicKeyToken=5803cfa389c90ce7
+    Assembly resolution failed: Telerik.Windows.Controls.Navigation.2012.2.0903.1135, Version=2012.2.903.35, Culture=neutral, PublicKeyToken=5803cfa389c90ce7
+    Assembly resolution failed: Telerik.VSX.2018.2.618.1.XmlSerializers, Version=2018.2.618.1, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Entering Dispose() of: Telerik.Reporting.VsPackage.VsPackage

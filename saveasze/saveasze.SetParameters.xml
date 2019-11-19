@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="savease.ng" />
+  <setParameter name="saveaseSqlLocal-Web.config Connection String" value="Data Source=PHC-DEVELOPER2\SQLEXPRESS;Initial Catalog=db_a35056_savease;Persist Security Info=True;User ID=a35056_savease;Password=S@ve@se2018" />
+  <setParameter name="saveaseSqlLocal-Deployment Connection String" value="Data Source=PHC-DEVELOPER2\SQLEXPRESS;Initial Catalog=db_a35056_savease;Persist Security Info=True;User ID=a35056_savease;Password=S@ve@se2018" />
+</parameters>

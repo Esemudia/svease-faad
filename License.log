@@ -1,0 +1,896 @@
+    ======  ======
+    Time:19/12/2018 21:24:12
+    Title: Initiate log
+    Message: 
+    Time:19/12/2018 21:24:12
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:19/12/2018 21:24:12
+    Title: Requesting EVT
+    Message: EVTP
+    Time:19/12/2018 21:24:12
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:19/12/2018 21:24:12
+    Title: LICENSER
+    Message: TRL MODE
+    Time:19/12/2018 21:24:12
+    Title: LICENSER
+    Message: DS LEFT4
+    Time:19/12/2018 21:24:12
+    Title: LICENSER
+    Message: DT MARK PASSED4.00:00:00
+    Time:19/12/2018 21:24:39
+    Title: Requesting Validation
+    Message: ILMValidate True
+    Time:19/12/2018 21:24:39
+    Title: Requesting Validation
+    Message: ILMValidate True Trial
+    Time:19/12/2018 21:24:39
+    Title: Requested registry access is not allowed.
+    Message:    at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at Telerik.Licensing.Licenser.CheckRegistryTimeStamp()
+   at Telerik.Licensing.Licenser.TryCheckLicenseExists()
+    Entering constructor for: Telerik.WinControls.Converter.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.WinControls.Converter.VSPackage.VSPackage
+    No Telerik Reporting products found in registry
+    Entering constructor for: Telerik.KendoUI.Mvc.VSPackage.VsPackage
+    Entering constructor for: Telerik.KendoUI.Mvc.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.KendoUI.Mvc.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.KendoUI.Mvc.VSPackage.VsPackage
+    Entering constructor for: Telerik.Xamarin.UI.VSPackage.VsPackage
+    Entering constructor for: Telerik.Xamarin.UI.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.Xamarin.UI.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.Xamarin.UI.VSPackage.VsPackage
+    Entering constructor for: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Entering Initialize() of: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Entering constructor for: Telerik.Windows.WPF.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.Windows.WPF.VSPackage.VSPackage
+    Entering constructor for: Telerik.WinControls.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.WinControls.VSPackage.VSPackage
+    TS:Registry store: user registry root "HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\15.0_fbb9b8ed"
+    TS:Registry store: config registry root "HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\15.0_fbb9b8ed_Config"
+    TRR Initialize DataExplorerToolWindow
+    TRR Initialize ReportExplorerToolWindow
+    TRR Initialize GroupExplorerToolWindow
+    Assembly resolution failed: Telerik.Xamarin.UI.VSX.2018.4.1121.1.XmlSerializers, Version=2018.4.1121.1, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Assembly resolution failed: Telerik.VSX.2018.3.1011.1.XmlSerializers, Version=2018.3.1011.1, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    Assembly resolution failed: Telerik.KendoUI.Mvc.VSX.2018.3.1011.1.XmlSerializers, Version=2018.3.1011.1, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    TS:Unknown property name: kind
+    Assembly resolution failed: Telerik.Web.UI, Version=2017.1.228.45, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Web.UI.Skins, Version=2017.1.228.45, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Web.UI.Skins, Version=2017.1.228.45, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+ive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.Everlive.Sdk.Net35, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Assembly resolution failed: Telerik.Web.Spreadsheet, Version=2017.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+    Assembly resolution failed: Telerik.JustMock.AddIn.XmlSerializers, Version=2018.2.511.5, Culture=neutral, PublicKeyToken=602a9bfd8c8c4ad7
+    Entering Dispose() of: Telerik.Reporting.VsPackage.VsPackage

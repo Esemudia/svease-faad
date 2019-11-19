@@ -1,0 +1,439 @@
+D:\savease project\svease\saveasze\bin\saveasze.dll.config
+D:\savease project\svease\saveasze\bin\saveasze.dll
+D:\savease project\svease\saveasze\bin\saveasze.pdb
+D:\savease project\svease\saveasze\bin\EASendMail40.dll
+D:\savease project\svease\saveasze\bin\EASendMail45.dll
+D:\savease project\svease\saveasze\bin\Newtonsoft.Json.dll
+D:\savease project\svease\saveasze\bin\System.Net.Http.Extensions.dll
+D:\savease project\svease\saveasze\bin\System.Net.Http.Primitives.dll
+D:\savease project\svease\saveasze\bin\System.Net.Http.Extensions.xml
+D:\savease project\svease\saveasze\bin\System.Net.Http.Primitives.xml
+D:\savease project\svease\saveasze\obj\Release\saveasze.csproj.App.config
+D:\savease project\svease\saveasze\obj\Release\saveasze.csprojAssemblyReference.cache
+D:\savease project\svease\saveasze\obj\Release\saveasze.Properties.Resources.resources
+D:\savease project\svease\saveasze\obj\Release\saveasze.csproj.GenerateResource.cache
+D:\savease project\svease\saveasze\obj\Release\saveasze.dll.licenses
+D:\savease project\svease\saveasze\obj\Release\saveasze.csproj.CoreCompileInputs.cache
+D:\savease project\svease\saveasze\obj\Release\saveasze.csproj.CopyComplete
+D:\savease project\svease\saveasze\obj\Release\saveasze.dll
+D:\savease project\svease\saveasze\obj\Release\saveasze.pdb
+E:\savease project\svease\saveasze\bin\saveasze.dll.config
+E:\savease project\svease\saveasze\bin\saveasze.dll
+E:\savease project\svease\saveasze\bin\saveasze.pdb
+E:\savease project\svease\saveasze\bin\EASendMail40.dll
+E:\savease project\svease\saveasze\bin\EASendMail45.dll
+E:\savease project\svease\saveasze\bin\Newtonsoft.Json.dll
+E:\savease project\svease\saveasze\bin\System.Net.Http.Extensions.dll
+E:\savease project\svease\saveasze\bin\System.Net.Http.Primitives.dll
+E:\savease project\svease\saveasze\bin\System.Net.Http.Extensions.xml
+E:\savease project\svease\saveasze\bin\System.Net.Http.Primitives.xml
+E:\savease project\svease\saveasze\obj\Release\saveasze.csproj.App.config
+E:\savease project\svease\saveasze\obj\Release\saveasze.csprojAssemblyReference.cache
+E:\savease project\svease\saveasze\obj\Release\saveasze.Properties.Resources.resources
+E:\savease project\svease\saveasze\obj\Release\saveasze.csproj.GenerateResource.cache
+E:\savease project\svease\saveasze\obj\Release\saveasze.dll.licenses
+E:\savease project\svease\saveasze\obj\Release\saveasze.csproj.CoreCompileInputs.cache
+E:\savease project\svease\saveasze\obj\Release\saveasze.csproj.CopyComplete
+E:\savease project\svease\saveasze\obj\Release\saveasze.dll
+E:\savease project\svease\saveasze\obj\Release\saveasze.pdb
+C:\Users\Savease\Desktop\svease\saveasze\bin\saveasze.dll.config
+C:\Users\Savease\Desktop\svease\saveasze\bin\saveasze.dll
+C:\Users\Savease\Desktop\svease\saveasze\bin\saveasze.pdb
+C:\Users\Savease\Desktop\svease\saveasze\bin\EASendMail40.dll
+C:\Users\Savease\Desktop\svease\saveasze\bin\EASendMail45.dll
+C:\Users\Savease\Desktop\svease\saveasze\bin\Newtonsoft.Json.dll
+C:\Users\Savease\Desktop\svease\saveasze\bin\System.Net.Http.Extensions.dll
+C:\Users\Savease\Desktop\svease\saveasze\bin\System.Net.Http.Primitives.dll
+C:\Users\Savease\Desktop\svease\saveasze\bin\System.Net.Http.Extensions.xml
+C:\Users\Savease\Desktop\svease\saveasze\bin\System.Net.Http.Primitives.xml
+C:\Users\Savease\Desktop\svease\saveasze\obj\Release\saveasze.csproj.App.config
+C:\Users\Savease\Desktop\svease\saveasze\obj\Release\saveasze.csprojAssemblyReference.cache
+C:\Users\Savease\Desktop\svease\saveasze\obj\Release\saveasze.Properties.Resources.resources
+C:\Users\Savease\Desktop\svease\saveasze\obj\Release\saveasze.csproj.GenerateResource.cache
+C:\Users\Savease\Desktop\svease\saveasze\obj\Release\saveasze.dll.licenses
+C:\Users\Savease\Desktop\svease\saveasze\obj\Release\saveasze.csproj.CoreCompileInputs.cache
+C:\Users\Savease\Desktop\svease\saveasze\obj\Release\saveasze.csproj.CopyComplete
+C:\Users\Savease\Desktop\svease\saveasze\obj\Release\saveasze.dll
+C:\Users\Savease\Desktop\svease\saveasze\obj\Release\saveasze.pdb
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\saveasze.dll.config
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\saveasze.dll
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\saveasze.pdb
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\EASendMail40.dll
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\EASendMail45.dll
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\MyButton.dll
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\Newtonsoft.Json.dll
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\SplineFn.dll
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\System.Net.Http.Extensions.dll
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\System.Net.Http.Primitives.dll
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\Telerik.Web.UI.dll
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\Telerik.Windows.Documents.Core.dll
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\Telerik.Windows.Documents.Flow.dll
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\Telerik.Windows.Zip.dll
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\AWSSDK.S3.dll
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\AWSSDK.Core.dll
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\System.Net.Http.Extensions.xml
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\System.Net.Http.Primitives.xml
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\Telerik.Web.UI.xml
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\Telerik.Windows.Documents.Core.xml
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\Telerik.Windows.Documents.Flow.xml
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\Users\jonathanataisi\Videos\svease\saveasze\bin\Telerik.Windows.Zip.xml
+C:\Users\jonathanataisi\Videos\svease\saveasze\obj\Release\saveasze.csproj.App.config
+C:\Users\jonathanataisi\Videos\svease\saveasze\obj\Release\saveasze.csprojAssemblyReference.cache
+C:\Users\jonathanataisi\Videos\svease\saveasze\obj\Release\saveasze.Properties.Resources.resources
+C:\Users\jonathanataisi\Videos\svease\saveasze\obj\Release\saveasze.csproj.GenerateResource.cache
+C:\Users\jonathanataisi\Videos\svease\saveasze\obj\Release\saveasze.dll.licenses
+C:\Users\jonathanataisi\Videos\svease\saveasze\obj\Release\saveasze.csproj.CoreCompileInputs.cache
+C:\Users\jonathanataisi\Videos\svease\saveasze\obj\Release\saveasze.csproj.CopyComplete
+C:\Users\jonathanataisi\Videos\svease\saveasze\obj\Release\saveasze.dll
+C:\Users\jonathanataisi\Videos\svease\saveasze\obj\Release\saveasze.pdb
+C:\svease6-12-2018\saveasze\bin\saveasze.dll.config
+C:\svease6-12-2018\saveasze\bin\saveasze.dll
+C:\svease6-12-2018\saveasze\bin\saveasze.pdb
+C:\svease6-12-2018\saveasze\bin\EASendMail40.dll
+C:\svease6-12-2018\saveasze\bin\EASendMail45.dll
+C:\svease6-12-2018\saveasze\bin\My Project.Resources.Designer.vb.dll
+C:\svease6-12-2018\saveasze\bin\MyButton.dll
+C:\svease6-12-2018\saveasze\bin\Newtonsoft.Json.dll
+C:\svease6-12-2018\saveasze\bin\SplineFn.dll
+C:\svease6-12-2018\saveasze\bin\System.Net.Http.Extensions.dll
+C:\svease6-12-2018\saveasze\bin\System.Net.Http.Primitives.dll
+C:\svease6-12-2018\saveasze\bin\Telerik.Web.UI.dll
+C:\svease6-12-2018\saveasze\bin\Telerik.Windows.Documents.Core.dll
+C:\svease6-12-2018\saveasze\bin\Telerik.Windows.Documents.Flow.dll
+C:\svease6-12-2018\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.dll
+C:\svease6-12-2018\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\svease6-12-2018\saveasze\bin\Telerik.Windows.Zip.dll
+C:\svease6-12-2018\saveasze\bin\AWSSDK.S3.dll
+C:\svease6-12-2018\saveasze\bin\Microsoft.AnalysisServices.AdomdClient.dll
+C:\svease6-12-2018\saveasze\bin\AWSSDK.Core.dll
+C:\svease6-12-2018\saveasze\bin\System.Net.Http.Extensions.xml
+C:\svease6-12-2018\saveasze\bin\System.Net.Http.Primitives.xml
+C:\svease6-12-2018\saveasze\bin\Telerik.Web.UI.xml
+C:\svease6-12-2018\saveasze\bin\Telerik.Windows.Documents.Core.xml
+C:\svease6-12-2018\saveasze\bin\Telerik.Windows.Documents.Flow.xml
+C:\svease6-12-2018\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.xml
+C:\svease6-12-2018\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\svease6-12-2018\saveasze\bin\Telerik.Windows.Zip.xml
+C:\svease6-12-2018\saveasze\obj\Release\saveasze.csproj.App.config
+C:\svease6-12-2018\saveasze\obj\Release\saveasze.csprojAssemblyReference.cache
+C:\svease6-12-2018\saveasze\obj\Release\saveasze.Properties.Resources.resources
+C:\svease6-12-2018\saveasze\obj\Release\saveasze.csproj.GenerateResource.cache
+C:\svease6-12-2018\saveasze\obj\Release\saveasze.dll.licenses
+C:\svease6-12-2018\saveasze\obj\Release\saveasze.csproj.CoreCompileInputs.cache
+C:\svease6-12-2018\saveasze\obj\Release\saveasze.csproj.CopyComplete
+C:\svease6-12-2018\saveasze\obj\Release\saveasze.dll
+C:\svease6-12-2018\saveasze\obj\Release\saveasze.pdb
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\saveasze.dll.config
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\saveasze.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\saveasze.pdb
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\EASendMail40.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\EASendMail45.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\Newtonsoft.Json.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\System.Net.Http.Extensions.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\System.Net.Http.Primitives.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\Telerik.Windows.Documents.Core.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\Telerik.Windows.Documents.Flow.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\Telerik.Windows.Zip.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\AWSSDK.S3.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\AWSSDK.Core.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\System.Net.Http.Extensions.xml
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\System.Net.Http.Primitives.xml
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\Telerik.Windows.Documents.Core.xml
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\Telerik.Windows.Documents.Flow.xml
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\Telerik.Windows.Zip.xml
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\obj\Release\saveasze.csproj.App.config
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\obj\Release\saveasze.csprojAssemblyReference.cache
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\obj\Release\saveasze.Properties.Resources.resources
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\obj\Release\saveasze.csproj.GenerateResource.cache
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\obj\Release\saveasze.dll.licenses
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\obj\Release\saveasze.csproj.CoreCompileInputs.cache
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\obj\Release\saveasze.csproj.CopyComplete
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\obj\Release\saveasze.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\obj\Release\saveasze.pdb
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\itextsharp.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-11-12-2018\saveasze\bin\itextsharp.xml
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\bin\saveasze.dll.config
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\bin\saveasze.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\bin\saveasze.pdb
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\bin\EASendMail40.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\bin\EASendMail45.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\bin\itextsharp.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\bin\Newtonsoft.Json.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\bin\System.Net.Http.Extensions.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\bin\System.Net.Http.Primitives.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\bin\AWSSDK.S3.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\bin\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\bin\AWSSDK.Core.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\bin\itextsharp.xml
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\bin\System.Net.Http.Extensions.xml
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\bin\System.Net.Http.Primitives.xml
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\obj\Release\saveasze.csproj.App.config
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\obj\Release\saveasze.csprojAssemblyReference.cache
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\obj\Release\saveasze.Properties.Resources.resources
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\obj\Release\saveasze.csproj.GenerateResource.cache
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\obj\Release\saveasze.dll.licenses
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\obj\Release\saveasze.csproj.CoreCompileInputs.cache
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\obj\Release\saveasze.csproj.CopyComplete
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\obj\Release\saveasze.dll
+C:\Users\Delight_2\Documents\Visual Studio 2017\Projects\svease-14-12-2018\saveasze\obj\Release\saveasze.pdb
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\saveasze.dll.config
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\saveasze.dll
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\saveasze.pdb
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\EASendMail40.dll
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\EASendMail45.dll
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\itextsharp.dll
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\MyButton.dll
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\Newtonsoft.Json.dll
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\SplineFn.dll
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\System.Net.Http.Extensions.dll
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\System.Net.Http.Primitives.dll
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\Telerik.Windows.Documents.Flow.dll
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\Telerik.Windows.Documents.Core.dll
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.dll
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\AWSSDK.S3.dll
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\Microsoft.AnalysisServices.AdomdClient.dll
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\AWSSDK.Core.dll
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\Telerik.Windows.Zip.dll
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\itextsharp.xml
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\System.Net.Http.Extensions.xml
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\System.Net.Http.Primitives.xml
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\Telerik.Windows.Documents.Flow.xml
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\Telerik.Windows.Documents.Core.xml
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.xml
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\scan doc\svease-19-12-2018 -version2\saveasze\bin\Telerik.Windows.Zip.xml
+C:\scan doc\svease-19-12-2018 -version2\saveasze\obj\Release\saveasze.csproj.App.config
+C:\scan doc\svease-19-12-2018 -version2\saveasze\obj\Release\saveasze.csprojAssemblyReference.cache
+C:\scan doc\svease-19-12-2018 -version2\saveasze\obj\Release\saveasze.Properties.Resources.resources
+C:\scan doc\svease-19-12-2018 -version2\saveasze\obj\Release\saveasze.csproj.GenerateResource.cache
+C:\scan doc\svease-19-12-2018 -version2\saveasze\obj\Release\saveasze.dll.licenses
+C:\scan doc\svease-19-12-2018 -version2\saveasze\obj\Release\saveasze.csproj.CoreCompileInputs.cache
+C:\scan doc\svease-19-12-2018 -version2\saveasze\obj\Release\saveasze.csproj.CopyComplete
+C:\scan doc\svease-19-12-2018 -version2\saveasze\obj\Release\saveasze.dll
+C:\scan doc\svease-19-12-2018 -version2\saveasze\obj\Release\saveasze.pdb
+C:\project\svease-20-12-2018\saveasze\bin\saveasze.dll.config
+C:\project\svease-20-12-2018\saveasze\bin\saveasze.dll
+C:\project\svease-20-12-2018\saveasze\bin\saveasze.pdb
+C:\project\svease-20-12-2018\saveasze\bin\EASendMail40.dll
+C:\project\svease-20-12-2018\saveasze\bin\EASendMail45.dll
+C:\project\svease-20-12-2018\saveasze\bin\itextsharp.dll
+C:\project\svease-20-12-2018\saveasze\bin\Newtonsoft.Json.dll
+C:\project\svease-20-12-2018\saveasze\bin\System.Net.Http.Extensions.dll
+C:\project\svease-20-12-2018\saveasze\bin\System.Net.Http.Primitives.dll
+C:\project\svease-20-12-2018\saveasze\bin\Telerik.Windows.Documents.Flow.dll
+C:\project\svease-20-12-2018\saveasze\bin\Telerik.Windows.Documents.Core.dll
+C:\project\svease-20-12-2018\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.dll
+C:\project\svease-20-12-2018\saveasze\bin\AWSSDK.S3.dll
+C:\project\svease-20-12-2018\saveasze\bin\Microsoft.AnalysisServices.AdomdClient.dll
+C:\project\svease-20-12-2018\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\project\svease-20-12-2018\saveasze\bin\AWSSDK.Core.dll
+C:\project\svease-20-12-2018\saveasze\bin\Telerik.Windows.Zip.dll
+C:\project\svease-20-12-2018\saveasze\bin\itextsharp.xml
+C:\project\svease-20-12-2018\saveasze\bin\System.Net.Http.Extensions.xml
+C:\project\svease-20-12-2018\saveasze\bin\System.Net.Http.Primitives.xml
+C:\project\svease-20-12-2018\saveasze\bin\Telerik.Windows.Documents.Flow.xml
+C:\project\svease-20-12-2018\saveasze\bin\Telerik.Windows.Documents.Core.xml
+C:\project\svease-20-12-2018\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.xml
+C:\project\svease-20-12-2018\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\project\svease-20-12-2018\saveasze\bin\Telerik.Windows.Zip.xml
+C:\project\svease-20-12-2018\saveasze\obj\Release\saveasze.csproj.App.config
+C:\project\svease-20-12-2018\saveasze\obj\Release\saveasze.csprojAssemblyReference.cache
+C:\project\svease-20-12-2018\saveasze\obj\Release\saveasze.Properties.Resources.resources
+C:\project\svease-20-12-2018\saveasze\obj\Release\saveasze.csproj.GenerateResource.cache
+C:\project\svease-20-12-2018\saveasze\obj\Release\saveasze.dll.licenses
+C:\project\svease-20-12-2018\saveasze\obj\Release\saveasze.csproj.CoreCompileInputs.cache
+C:\project\svease-20-12-2018\saveasze\obj\Release\saveasze.csproj.CopyComplete
+C:\project\svease-20-12-2018\saveasze\obj\Release\saveasze.dll
+C:\project\svease-20-12-2018\saveasze\obj\Release\saveasze.pdb
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\saveasze.dll.config
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\saveasze.dll
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\saveasze.pdb
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\EASendMail40.dll
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\EASendMail45.dll
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\itextsharp.dll
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\Newtonsoft.Json.dll
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\System.Net.Http.Extensions.dll
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\System.Net.Http.Primitives.dll
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Web.Device.Detection.dll
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Fixed.dll
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\AWSSDK.S3.dll
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\AWSSDK.Core.dll
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\itextsharp.xml
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\System.Net.Http.Extensions.xml
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\System.Net.Http.Primitives.xml
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Web.Device.Detection.xml
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Web.Spreadsheet.xml
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Web.UI.xml
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Core.xml
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Fixed.xml
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Flow.xml
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Zip.xml
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.csproj.App.config
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.csprojAssemblyReference.cache
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.Properties.Resources.resources
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.csproj.GenerateResource.cache
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.dll.licenses
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.csproj.CoreCompileInputs.cache
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.csproj.CopyComplete
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.dll
+C:\Users\Delight_2\Documents\My Palettes\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.pdb
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\saveasze.dll.config
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\saveasze.dll
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\saveasze.pdb
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\EASendMail40.dll
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\EASendMail45.dll
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\MyButton.dll
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\Newtonsoft.Json.dll
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\SplineFn.dll
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\System.Net.Http.Extensions.dll
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\System.Net.Http.Primitives.dll
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Web.Device.Detection.dll
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Fixed.dll
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\AWSSDK.S3.dll
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\Microsoft.AnalysisServices.AdomdClient.dll
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\AWSSDK.Core.dll
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\Newtonsoft.Json.pdb
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\Newtonsoft.Json.xml
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\System.Net.Http.Extensions.xml
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\System.Net.Http.Primitives.xml
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Web.Device.Detection.xml
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Fixed.xml
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.csproj.App.config
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.csprojAssemblyReference.cache
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.Properties.Resources.resources
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.csproj.GenerateResource.cache
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.dll.licenses
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.csproj.CoreCompileInputs.cache
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.csproj.CopyComplete
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.dll
+C:\agiemama\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.pdb
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\saveasze.dll.config
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\saveasze.dll
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\saveasze.pdb
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\EASendMail40.dll
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\EASendMail45.dll
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\Newtonsoft.Json.dll
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\System.Net.Http.Extensions.dll
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\System.Net.Http.Primitives.dll
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Web.Device.Detection.dll
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Fixed.dll
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\AWSSDK.S3.dll
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\Microsoft.AnalysisServices.AdomdClient.dll
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\AWSSDK.Core.dll
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\itextsharp.xml
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\Newtonsoft.Json.pdb
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\Newtonsoft.Json.xml
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\System.Net.Http.Extensions.xml
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\System.Net.Http.Primitives.xml
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Web.Device.Detection.xml
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Web.Spreadsheet.xml
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Web.UI.xml
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Core.xml
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Fixed.xml
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Flow.xml
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.xml
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\project\svease-15-2-2019 - Copy\saveasze\bin\Telerik.Windows.Zip.xml
+C:\project\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.csproj.App.config
+C:\project\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.csprojAssemblyReference.cache
+C:\project\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.Properties.Resources.resources
+C:\project\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.csproj.GenerateResource.cache
+C:\project\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.dll.licenses
+C:\project\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.csproj.CoreCompileInputs.cache
+C:\project\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.csproj.CopyComplete
+C:\project\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.dll
+C:\project\svease-15-2-2019 - Copy\saveasze\obj\Release\saveasze.pdb
+C:\agiemama\svease-15-2-2019\saveasze\bin\saveasze.dll.config
+C:\agiemama\svease-15-2-2019\saveasze\bin\saveasze.dll
+C:\agiemama\svease-15-2-2019\saveasze\bin\saveasze.pdb
+C:\agiemama\svease-15-2-2019\saveasze\bin\EASendMail40.dll
+C:\agiemama\svease-15-2-2019\saveasze\bin\EASendMail45.dll
+C:\agiemama\svease-15-2-2019\saveasze\bin\MyButton.dll
+C:\agiemama\svease-15-2-2019\saveasze\bin\Newtonsoft.Json.dll
+C:\agiemama\svease-15-2-2019\saveasze\bin\SplineFn.dll
+C:\agiemama\svease-15-2-2019\saveasze\bin\System.Net.Http.Extensions.dll
+C:\agiemama\svease-15-2-2019\saveasze\bin\System.Net.Http.Primitives.dll
+C:\agiemama\svease-15-2-2019\saveasze\bin\Telerik.Web.Device.Detection.dll
+C:\agiemama\svease-15-2-2019\saveasze\bin\Telerik.Windows.Documents.Fixed.dll
+C:\agiemama\svease-15-2-2019\saveasze\bin\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+C:\agiemama\svease-15-2-2019\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\agiemama\svease-15-2-2019\saveasze\bin\AWSSDK.S3.dll
+C:\agiemama\svease-15-2-2019\saveasze\bin\Microsoft.AnalysisServices.AdomdClient.dll
+C:\agiemama\svease-15-2-2019\saveasze\bin\AWSSDK.Core.dll
+C:\agiemama\svease-15-2-2019\saveasze\bin\Newtonsoft.Json.pdb
+C:\agiemama\svease-15-2-2019\saveasze\bin\Newtonsoft.Json.xml
+C:\agiemama\svease-15-2-2019\saveasze\bin\System.Net.Http.Extensions.xml
+C:\agiemama\svease-15-2-2019\saveasze\bin\System.Net.Http.Primitives.xml
+C:\agiemama\svease-15-2-2019\saveasze\bin\Telerik.Web.Device.Detection.xml
+C:\agiemama\svease-15-2-2019\saveasze\bin\Telerik.Windows.Documents.Fixed.xml
+C:\agiemama\svease-15-2-2019\saveasze\bin\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+C:\agiemama\svease-15-2-2019\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\agiemama\svease-15-2-2019\saveasze\obj\Release\saveasze.csproj.App.config
+C:\agiemama\svease-15-2-2019\saveasze\obj\Release\saveasze.csprojAssemblyReference.cache
+C:\agiemama\svease-15-2-2019\saveasze\obj\Release\saveasze.Properties.Resources.resources
+C:\agiemama\svease-15-2-2019\saveasze\obj\Release\saveasze.csproj.GenerateResource.cache
+C:\agiemama\svease-15-2-2019\saveasze\obj\Release\saveasze.dll.licenses
+C:\agiemama\svease-15-2-2019\saveasze\obj\Release\saveasze.csproj.CoreCompileInputs.cache
+C:\agiemama\svease-15-2-2019\saveasze\obj\Release\saveasze.csproj.CopyComplete
+C:\agiemama\svease-15-2-2019\saveasze\obj\Release\saveasze.dll
+C:\agiemama\svease-15-2-2019\saveasze\obj\Release\saveasze.pdb
+C:\agiemama\FAAD\svease-faad\saveasze\obj\Release\saveasze.csproj.App.config
+C:\agiemama\FAAD\svease-faad\saveasze\obj\Release\saveasze.csprojAssemblyReference.cache
+C:\agiemama\FAAD\svease-faad\saveasze\obj\Release\saveasze.Properties.Resources.resources
+C:\agiemama\FAAD\svease-faad\saveasze\obj\Release\saveasze.csproj.GenerateResource.cache
+C:\agiemama\FAAD\svease-faad\saveasze\obj\Release\saveasze.dll.licenses
+C:\agiemama\FAAD\svease-faad\saveasze\obj\Release\saveasze.dll
+C:\agiemama\FAAD\svease-faad\saveasze\obj\Release\saveasze.pdb
+C:\agiemama\FAAD\svease-faad\saveasze\bin\saveasze.dll.config
+C:\agiemama\FAAD\svease-faad\saveasze\bin\saveasze.dll
+C:\agiemama\FAAD\svease-faad\saveasze\bin\saveasze.pdb
+C:\agiemama\FAAD\svease-faad\saveasze\bin\EASendMail40.dll
+C:\agiemama\FAAD\svease-faad\saveasze\bin\EASendMail45.dll
+C:\agiemama\FAAD\svease-faad\saveasze\bin\MyButton.dll
+C:\agiemama\FAAD\svease-faad\saveasze\bin\Newtonsoft.Json.dll
+C:\agiemama\FAAD\svease-faad\saveasze\bin\SplineFn.dll
+C:\agiemama\FAAD\svease-faad\saveasze\bin\System.Net.Http.Extensions.dll
+C:\agiemama\FAAD\svease-faad\saveasze\bin\System.Net.Http.Primitives.dll
+C:\agiemama\FAAD\svease-faad\saveasze\bin\Telerik.Web.Device.Detection.dll
+C:\agiemama\FAAD\svease-faad\saveasze\bin\Telerik.Windows.Documents.Fixed.dll
+C:\agiemama\FAAD\svease-faad\saveasze\bin\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+C:\agiemama\FAAD\svease-faad\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\agiemama\FAAD\svease-faad\saveasze\bin\AWSSDK.S3.dll
+C:\agiemama\FAAD\svease-faad\saveasze\bin\Microsoft.AnalysisServices.AdomdClient.dll
+C:\agiemama\FAAD\svease-faad\saveasze\bin\AWSSDK.Core.dll
+C:\agiemama\FAAD\svease-faad\saveasze\bin\Newtonsoft.Json.pdb
+C:\agiemama\FAAD\svease-faad\saveasze\bin\Newtonsoft.Json.xml
+C:\agiemama\FAAD\svease-faad\saveasze\bin\System.Net.Http.Extensions.xml
+C:\agiemama\FAAD\svease-faad\saveasze\bin\System.Net.Http.Primitives.xml
+C:\agiemama\FAAD\svease-faad\saveasze\bin\Telerik.Web.Device.Detection.xml
+C:\agiemama\FAAD\svease-faad\saveasze\bin\Telerik.Windows.Documents.Fixed.xml
+C:\agiemama\FAAD\svease-faad\saveasze\bin\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+C:\agiemama\FAAD\svease-faad\saveasze\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\agiemama\FAAD\svease-faad\saveasze\obj\Release\saveasze.csproj.CoreCompileInputs.cache
+C:\agiemama\FAAD\svease-faad\saveasze\obj\Release\saveasze.csproj.CopyComplete
